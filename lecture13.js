@@ -1,0 +1,10 @@
+var str = "abcdeabcde";
+str[10];
+str[-1];
+str.substring(2,4);
+str.substr(2,4);
+str.substring(2);
+str.substr(2);
+str.substr(-7);
+str.indexOf("bc");
+str.lastIndexOf("bc");
